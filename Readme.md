@@ -1,5 +1,4 @@
 # Readme.md
 
 Portfolio of Kokkia  
-製作途中
-
+https://kokkia.github.io/portfolio/
